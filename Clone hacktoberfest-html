@@ -1,0 +1,155 @@
+//index
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacktoberfest Clone</title>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to Hacktoberfest Clone!</h1>
+        <nav>
+            <ul>
+                <li><a href="page1.html">Page 1</a></li>
+                <li><a href="page2.html">Page 2</a></li>
+                <li><a href="page3.html">Page 3</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Homepage Content Goes Here</h2>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Hacktoberfest Clone. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
+
+
+
+
+//page1
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page 1 - Hacktoberfest Clone</title>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to Page 1!</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="page2.html">Page 2</a></li>
+                <li><a href="page3.html">Page 3</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Page 1 Content Goes Here</h2>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Hacktoberfest Clone. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
+
+
+
+
+//page2
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page 2 - Hacktoberfest Clone</title>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to Page 2!</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="page1.html">Page 1</a></li>
+                <li><a href="page3.html">Page 3</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Page 2 Content Goes Here</h2>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Hacktoberfest Clone. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
+
+
+
+//page3
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page 3 - Hacktoberfest Clone</title>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to Page 3!</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="page1.html">Page 1</a></li>
+                <li><a href="page2.html">Page 2</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Page 3 Content Goes Here</h2>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Hacktoberfest Clone. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
+
+
+
+
+
+
+
